@@ -1,0 +1,30 @@
+/* body */
+
+body {
+box-sizing: border-box;
+position: relative;
+width: 760px;
+height: 2990px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+/* header */
+header {
+    position: absolute;
+    background: #A9BFE4;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+
+/* logo */
+
+.logo {
+    width: 16px;
+	margin-left: 16px;
+
+
+/* Каталог Про нас Збери букет Контакти */
+
+
